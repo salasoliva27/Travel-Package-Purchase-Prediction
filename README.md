@@ -1,9 +1,9 @@
 # Travel-Package-Purchase-Prediction
-As a Data Scientist at "Visit with us" travel company has to analyze the customers' data and information to provide recommendations to the Policy Maker and Marketing Team and also build a model to predict the potential customer who is going to purchase the newly introduced travel package.
+The "Visit with us" travel company dataset is used to analyze the customers' information and build a model to predict the potential customer who is going to purchase the newly introduced package.
 
-Objective
+Skills and Tools
 
-To predict which customer is more likely to purchase the newly introduced travel package.
+EDA, Data Preprocessing, Customer Profiling, Bagging Classifiers - Bagging and Random Forest, Boosting Classifier - AdaBoost, Gradient Boosting and XGBoost, Stacking Classifier, Hyperparameter Tuning using GridSearchCV and Business Recommendations
 
 Data Dictionary
 
